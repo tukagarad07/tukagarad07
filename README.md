@@ -11,20 +11,10 @@ I'm an enthusiastic Computer Science student with a strong foundation in Full St
 - 💼 Actively seeking internship/full-time opportunities
 
 ### 🤝 Connect with Me
-- [![Twitter Badge](https://img.shields.io/badge/-@tukaram-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/tukagarad07)
+- [![Twitter Badge](https://img.shields.io/badge/-@tukaramgarad-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/tukagarad07)
 - [![Linkedin Badge](https://img.shields.io/badge/-TukaramGarad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tukaramgarad07/)
-- [![Instagram Badge](https://img.shields.io/badge/-@tukaram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/tukaramgarad07/?hl=en)
-- [![Mail Badge](https://img.shields.io/badge/-tukaram-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tukagarad07@gmail.com)
-
-### 🤝 Connect with Me
-- [![Twitter Badge](https://img.shields.io/badge/-@tukaram-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tukagarad07)]
-(https://twitter.com/tukagarad07)
-- [![Linkedin Badge](https://img.shields.io/badge/-TukaramGarad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/tukaramgarad07/)
-- [![Instagram Badge](https://img.shields.io/badge/-@tukaram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)]
-(https://www.instagram.com/tukaramgarad07/?hl=en)
-- [![Mail Badge](https://img.shields.io/badge/-tukaram-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)]
-(mailto:tukagarad07@gmail.com)
+- [![Instagram Badge](https://img.shields.io/badge/-@tukaramgarad07-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/tukaramgarad07/?hl=en)
+- [![Mail Badge](https://img.shields.io/badge/-tukaramgarad-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tukagarad07@gmail.com)
 
 ### ⚙️ Tech Stack
 - JavaScript, HTML5, CSS3, Bootstrap
