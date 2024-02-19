@@ -18,7 +18,7 @@ I'm an enthusiastic Computer Science student with a strong foundation in Full St
 - [![Instagram Badge](https://img.shields.io/badge/-@tukaram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)]
 (https://www.instagram.com/tukaramgarad07/?hl=en)
 - [![Mail Badge](https://img.shields.io/badge/-tukaram-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)]
-(mailto:tukagarad@gmail.com)
+(mailto:tukagarad07@gmail.com)
 
 ### ⚙️ Tech Stack
 - JavaScript, HTML5, CSS3, Bootstrap
