@@ -28,6 +28,6 @@ I'm an enthusiastic Computer Science student with a strong foundation in Full St
 - Linux
 
 ### 📊 Git Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyas0201&theme=radical&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tukagarad07&theme=radical&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas0201&theme=radical&layout=compact)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shreyas0201&theme=radical&layout=compact)
